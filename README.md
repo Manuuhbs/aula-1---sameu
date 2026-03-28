@@ -15,6 +15,7 @@ git add .
 git commit -m "mensagem"
 
 ## enviar para o Github
+após dar um create e pegar o link do repositorio, deve-se ir no terminal e colocar git remote add origin https://github.com/Manuuhbs/el-gato-de-buetas.git
 git push -u origin master
 
 ## pequeno bonus
